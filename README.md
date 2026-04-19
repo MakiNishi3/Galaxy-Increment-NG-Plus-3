@@ -1,2 +1,2 @@
-# Galaxy-Increment
-An incremental game which I'm entering into the YGD BAFTA.
+# Galaxy Increment Mods - Created by Binary
+A incremental googology game.
